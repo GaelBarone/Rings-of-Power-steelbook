@@ -1,8 +1,8 @@
-# Rings of Power - steelbook
-
 <div align="center">
-<img alt="S01 steelbook" src="S01/en/S01.png" height="500" /><img alt="S02 steelbook" src="S02/en/S02.png" height="500" />
+<img alt="S01 steelbook" src="S01/en/S01.png" height="400" /><img alt="S02 steelbook" src="S02/en/S02.png" height="400" />
 </div>
+
+Inspired by _custom_steelbok_ [[1](https://www.instagram.com/custom_steelbook/reel/CkyHoPejuta/), [2](https://www.reddit.com/r/Steelbooks/comments/ytakf4/rings_of_power_6_disc_slots_debossed_frame_front/)] and _Matt Nebon_ [[1](https://www.instagram.com/mattnebon/p/Cj07NNYvdc0/), [2](https://www.instagram.com/mattnebon/p/ClzaavZPnTp/?img_index=1)] collaboration.
 
 ### Resources
 ##### Brushes
@@ -22,3 +22,4 @@
 
 ##### Others
 - [Steelbook template](https://www.hidefninja.com/community/resources/conceptual-steelbook-art-photoshop-templates-tutorial.11/) by _Lone Crusader_
+- [Steelbook Artwork Specifications](https://files.bbystatic.com/2Xim0e50S%2F%2FJn7ymFq%2BLbQ%3D%3D/03c80516-4dea-4009-8207-1ac33baf3750.pdf)
