@@ -2,7 +2,7 @@
 <img alt="S01 steelbook" src="S01/en/S01.png" height="400" /><img alt="S02 steelbook" src="S02/en/S02.png" height="400" />
 </div>
 
-Inspired by _custom_steelbok_ [[1](https://www.instagram.com/custom_steelbook/reel/CkyHoPejuta/), [2](https://www.reddit.com/r/Steelbooks/comments/ytakf4/rings_of_power_6_disc_slots_debossed_frame_front/)] and _Matt Nebon_ [[1](https://www.instagram.com/mattnebon/p/Cj07NNYvdc0/), [2](https://www.instagram.com/mattnebon/p/ClzaavZPnTp/?img_index=1)] collaboration.
+Inspired by _Matt Nebon_ [[1](https://www.instagram.com/mattnebon/p/Cj07NNYvdc0/), [2](https://www.instagram.com/mattnebon/p/ClzaavZPnTp/?img_index=1)] and _custom_steelbok_ [[1](https://www.instagram.com/custom_steelbook/reel/CkyHoPejuta/), [2](https://www.reddit.com/r/Steelbooks/comments/ytakf4/rings_of_power_6_disc_slots_debossed_frame_front/)].
 
 ### Resources
 ##### Brushes
@@ -12,6 +12,7 @@ Inspired by _custom_steelbok_ [[1](https://www.instagram.com/custom_steelbook/re
 ##### Fonts
 - [Universal Accreditation](https://tracertong.co.uk/ttfw3/product/uni_acc/) by _TracerTong Fontworks_
 - [Moria](https://www.pixelsagas.com/?download=moria) by _Pixel Sagas_
+- [Universal Accreditation - French Edition](https://github.com/GaelBarone/credits-font)
 
 #### Pictures
 - Frame S01 : [Celtic Border Stencil : ST88](https://www.youstencil.com.au/wall-stencils/celtic-border-st88.html) by _youstencil_
