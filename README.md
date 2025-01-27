@@ -12,6 +12,7 @@ Inspired by _Matt Nebon_ [[1](https://www.instagram.com/mattnebon/p/Cj07NNYvdc0/
 ##### Fonts
 - [Universal Accreditation](https://tracertong.co.uk/ttfw3/product/uni_acc/) by _TracerTong Fontworks_
 - [Moria](https://www.pixelsagas.com/?download=moria) by _Pixel Sagas_
+- [Ringbearer](https://www.thehutt.de/tolkien/fonts.html) by _Pete Klassen_
 - [Universal Accreditation - French Edition](https://github.com/GaelBarone/credits-font)
 
 #### Pictures
